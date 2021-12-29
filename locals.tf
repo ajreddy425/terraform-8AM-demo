@@ -1,0 +1,3 @@
+locals{
+    ws=terraform.workspace
+}
